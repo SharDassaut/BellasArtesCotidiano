@@ -7,6 +7,6 @@ I use the wikiArt api https://www.wikiart.org/en/App/GetApi
 
 I use those python libraries : requests, random, json, os, bs4, fake_useragent, tweepy
 
-The credencials.txt must have the text in json format
+The credencials.txt must have the data in json format
 
 The banned list must contain on artist id per line
