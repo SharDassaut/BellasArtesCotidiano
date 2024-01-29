@@ -5,7 +5,7 @@ and publish it on Twitter @BACotidiano
 ## Used Material
 I use the wikiArt api https://www.wikiart.org/en/App/GetApi
 
-I use requests, random, json, os,bs4, fake_useragent,tweepy
+I use those python libraries : requests, random, json, os, bs4, fake_useragent, tweepy
 
 The credencials.txt must have the text in json format
 
